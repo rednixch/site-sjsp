@@ -1,2 +1,1 @@
-# site-sjsp
-Site SJSP
+# Site SJSP
